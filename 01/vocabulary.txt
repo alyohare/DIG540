@@ -1,2 +1,11 @@
 Add vocabulary terms below.
 repository
+system
+clone
+pull
+metadata
+domain
+hosting
+code
+pull request
+repository
