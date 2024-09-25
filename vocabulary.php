@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="common.css">
+
 <?php
 
 $content = file_get_contents("https://raw.githubusercontent.com/alyohare/DIG540/main/02/vocabulary.json");
