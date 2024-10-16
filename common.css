@@ -1,4 +1,5 @@
 table {background-color:#f2e6ff; border-radius:10px; margin:40px auto 40px auto; width:800px; border:solid 1px #aaaaaa;}
 th {background-color:#cc99ff; text-align:left; padding:10px;}
 td {vertical-align:top; padding:10px; border:solid 1px #ffffff;}
-img{width:100px; border:solid 1px #aaaaaa}
+img{width:100px; border:solid 1px #aaaaaa; border-radius:5px;}
+img:hover {border-color:purple;}

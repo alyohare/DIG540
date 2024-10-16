@@ -1,0 +1,5 @@
+body {background-color:#f6edff;}
+header {background-color:#cc99ff;}
+a, a:link, a:visited {color:#4b0f86;}
+a:hover {text-decoration:underline;}
+ul.resource-list .resource img {width:240px;}
